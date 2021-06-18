@@ -1,0 +1,12 @@
+{
+  "name": "brew-for-buck",
+  "displayName": "brew-for-buck",
+  "expo": {
+    "name": "brew-for-buck",
+    "slug": "brew-for-buck",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
